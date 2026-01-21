@@ -36,7 +36,6 @@ I like building clean, responsive and impactful projects 🚀
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white)
 
 #### ⚙️ Backend, Runtime & DevOps
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)

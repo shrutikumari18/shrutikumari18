@@ -44,6 +44,7 @@ I like building clean, responsive and impactful projects 🚀
 
 #### 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 #### 📊 Data Science, ML & AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)

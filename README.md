@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hi, I'm **Shruti Kumari**, a **Aspiring Data Analyst / Full Stack Developer**  
+Hi, I'm **Shruti Kumari**, a **Aspiring Data Analyst /Data Scientist**  
 I like building clean, responsive and impactful projects 🚀
 
 ### 👩‍💻 About Me

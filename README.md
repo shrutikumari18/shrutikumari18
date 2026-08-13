@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:0096C7,100:00B4D8&height=210&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1F4D,75:123C8C,100:0066FF&height=210&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=7DD3FC"/>
 
 # 👋 Welcome to my GitHub!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0096C7&center=true&vCenter=true&width=720&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Data+Science+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Projects+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Data+Science+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Projects+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%E2%9C%A8"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=shrutikumari18&label=PROFILE+VIEWS&color=0096C7&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/shrutikumari18?label=FOLLOWERS&style=for-the-badge&color=0077B6"/>
-<img src="https://img.shields.io/github/stars/shrutikumari18?label=STARS&style=for-the-badge&color=00B4D8"/>
+<img src="https://komarev.com/ghpvc/?username=shrutikumari18&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/shrutikumari18?label=FOLLOWERS&style=for-the-badge&color=1D4ED8"/>
+<img src="https://img.shields.io/github/stars/shrutikumari18?label=STARS&style=for-the-badge&color=2563EB"/>
 
 <br><br>
 
 <a href="https://linkedin.com/in/shruti-kumari-a6a727291/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shrutikumari18032005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-0096C7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shrutikumari18">
-<img src="https://img.shields.io/badge/GitHub-shrutikumari18-023E8A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-shrutikumari18-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/shrutikumari1803/">
-<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-1D4ED8?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
@@ -112,10 +112,10 @@ I enjoy building practical projects that combine **data, intelligent systems and
 
 ### 📊 Data Science & AI
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-0096C7?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-1E40AF?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2563EB?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1D4ED8?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-3B82F6?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </td>
 
@@ -123,8 +123,8 @@ I enjoy building practical projects that combine **data, intelligent systems and
 
 ### 📈 Analytics
 
-<img src="https://img.shields.io/badge/Power%20BI-0077B6?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-0096C7?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-2563EB?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-1D4ED8?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
 </td>
 
@@ -136,10 +136,10 @@ I enjoy building practical projects that combine **data, intelligent systems and
 
 ### 🧠 Core CS
 
-<img src="https://img.shields.io/badge/DSA-0077B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOPs-0096C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/DBMS-023E8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-00B4D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOPs-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-1E40AF?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-3B82F6?style=flat-square"/>
 
 </td>
 
@@ -155,9 +155,9 @@ I enjoy building practical projects that combine **data, intelligent systems and
 
 ### 🚀 Focus
 
-<img src="https://img.shields.io/badge/Data%20Analytics-0077B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-0096C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full%20Stack-00B4D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-3B82F6?style=flat-square"/>
 
 </td>
 
@@ -190,7 +190,7 @@ A collaborative technology platform focused on **technology news, AI insights, e
 
 <p align="center">
 <a href="YOUR-SYNEX-GEN-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -214,7 +214,7 @@ An interactive computer vision project using **hand gestures and face recognitio
 
 <p align="center">
 <a href="YOUR-GESTURE-FACE-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -222,7 +222,35 @@ An interactive computer vision project using **hand gestures and face recognitio
 
 <div align="center">
 
-## 🚀 03 — Pragatidrishti
+## 📊 03 — IPL Analysis Dashboard
+
+### Interactive Power BI Data Analytics Dashboard
+
+</div>
+
+An interactive **Power BI dashboard** analyzing IPL matches, teams, players, venues, seasons and overall performance trends.
+
+**✨ Highlights**
+
+`🏏 1243 Matches` `📅 19 Seasons` `🏟️ 60 Venues` `🌍 38 Cities` `📈 402K Runs` `🔥 Highest Score: 287`
+
+**📊 Dashboard Focus**
+
+`Team Performance` `Player Statistics` `Season Analysis` `Venue Analysis` `Match Insights`
+
+**🧰 Tech:** `Power BI` `DAX` `Excel` `Data Cleaning` `Data Visualization`
+
+<p align="center">
+<a href="YOUR-IPL-DASHBOARD-REPO">
+<img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+## 🚀 04 — Pragatidrishti
 
 ### Technology-Driven Social Impact Project
 
@@ -238,7 +266,7 @@ A technology-focused project designed to provide a practical digital solution fo
 
 <p align="center">
 <a href="YOUR-PRAGATIDRISHTI-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -246,7 +274,7 @@ A technology-focused project designed to provide a practical digital solution fo
 
 <div align="center">
 
-## 📦 04 — Complaint Box
+## 📦 05 — Complaint Box
 
 ### Mini Complaint Management System
 
@@ -262,7 +290,7 @@ A web-based application for **digital complaint submission and management**.
 
 <p align="center">
 <a href="YOUR-COMPLAINT-BOX-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -270,7 +298,7 @@ A web-based application for **digital complaint submission and management**.
 
 <div align="center">
 
-## 💰 05 — Loan Approval Comparison
+## 💰 06 — Loan Approval Comparison
 
 ### Data-Driven Loan Approval Analysis
 
@@ -286,7 +314,7 @@ A machine learning and data analysis project focused on **loan approval patterns
 
 <p align="center">
 <a href="YOUR-LOAN-APPROVAL-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-0077B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -324,7 +352,7 @@ A machine learning and data analysis project focused on **loan approval patterns
 
 <a href="https://leetcode.com/u/shrutikumari1803/">
 
-<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-0077B6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-1D4ED8?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
@@ -344,7 +372,7 @@ A machine learning and data analysis project focused on **loan approval patterns
 
 <a href="https://leetcode.com/u/shrutikumari1803/">
 
-<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-0096C7?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </a>
 
@@ -525,19 +553,19 @@ Practical Problems
 <div align="center">
 
 <a href="https://linkedin.com/in/shruti-kumari-a6a727291/">
-<img src="https://img.shields.io/badge/LinkedIn-Shruti%20Kumari-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shruti%20Kumari-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shrutikumari18032005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-0096C7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shrutikumari18">
-<img src="https://img.shields.io/badge/GitHub-shrutikumari18-023E8A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-shrutikumari18-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/shrutikumari1803/">
-<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-1D4ED8?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
@@ -546,7 +574,7 @@ Practical Problems
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:0096C7,100:00B4D8&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0B1F4D,75:123C8C,100:0066FF&height=110&section=footer"/>
 
 ### ✨ *Learning • Building • Collaborating • Growing* 🚀
 

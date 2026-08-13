@@ -172,7 +172,7 @@ I enjoy building practical projects that combine **data, intelligent systems and
 
 <div align="center">
 
-## 🤝 01 — SYNEX GEN
+## 🤝 01 — SYNEX_GEN
 
 ### Collaborative Technology Platform
 
@@ -189,7 +189,7 @@ A collaborative technology platform focused on **technology news, AI insights, e
 **🧰 Tech:** `React` `Vite` `JavaScript` `CSS` `Node.js` `AI`
 
 <p align="center">
-<a href="YOUR-SYNEX-GEN-REPO">
+<a href="https://github.com/HimanshuRajGiri/SYNEX_GEN">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -213,7 +213,7 @@ An interactive computer vision project using **hand gestures and face recognitio
 **🧰 Tech:** `Python` `OpenCV` `MediaPipe` `Flask` `Computer Vision` `AI`
 
 <p align="center">
-<a href="YOUR-GESTURE-FACE-REPO">
+<a href="https://github.com/shrutikumari18/GestureFace_Control">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -241,7 +241,7 @@ An interactive **Power BI dashboard** analyzing IPL matches, teams, players, ven
 **🧰 Tech:** `Power BI` `DAX` `Excel` `Data Cleaning` `Data Visualization`
 
 <p align="center">
-<a href="YOUR-IPL-DASHBOARD-REPO">
+<a href="https://github.com/shrutikumari18/IPL_Data_Analysis_Dashboard">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -250,7 +250,7 @@ An interactive **Power BI dashboard** analyzing IPL matches, teams, players, ven
 
 <div align="center">
 
-## 🚀 04 — Pragatidrishti
+## 🚀 04 — PragatiDrishti
 
 ### Technology-Driven Social Impact Project
 
@@ -265,7 +265,7 @@ A technology-focused project designed to provide a practical digital solution fo
 **🧰 Tech:** `HTML` `CSS` `JavaScript` `Python` `Flask`
 
 <p align="center">
-<a href="YOUR-PRAGATIDRISHTI-REPO">
+<a href="https://github.com/shrutikumari18/PragatiDrishti">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -274,7 +274,7 @@ A technology-focused project designed to provide a practical digital solution fo
 
 <div align="center">
 
-## 📦 05 — Complaint Box
+## 📦 05 — Complaint_Box
 
 ### Mini Complaint Management System
 
@@ -289,7 +289,7 @@ A web-based application for **digital complaint submission and management**.
 **🧰 Tech:** `Python` `Flask` `MySQL` `HTML` `CSS`
 
 <p align="center">
-<a href="YOUR-COMPLAINT-BOX-REPO">
+<a href="https://github.com/shrutikumari18/Complaint_Box">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -298,22 +298,22 @@ A web-based application for **digital complaint submission and management**.
 
 <div align="center">
 
-## 💰 06 — Loan Approval Comparison
+## 💰 06 — LoanApproval Model Comparison
 
 ### Data-Driven Loan Approval Analysis
 
 </div>
 
-A machine learning and data analysis project focused on **loan approval patterns and comparison of important factors affecting approval decisions**.
+A machine learning and data analysis project focused on **loan approval patterns with comparison of 4 Models**.
 
 **✨ Highlights**
 
-`📊 Data Preprocessing` `🔍 EDA` `🌳 Decision Tree` `📈 Comparison` `🤖 Machine Learning`
+`📊 Data Preprocessing` `🔍 EDA` `🌳 Decision Tree` `Random Forest` ` KNN ` `Logistic RegressioN` `📈 Comparison` `🤖 Machine Learning`
 
 **🧰 Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`
 
 <p align="center">
-<a href="YOUR-LOAN-APPROVAL-REPO">
+<a href="https://github.com/shrutikumari18/LoanApproval_Model_Comparison">
 <img src="https://img.shields.io/badge/🔗%20View%20Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>

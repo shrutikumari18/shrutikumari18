@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shruti%20Kumari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17"/>
 
-### 👋 Welcome to my GitHub!
+# 👋 Welcome to my GitHub!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Data+Science+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+into+Technology+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Data+Science+%7C+AI+%7C+Machine+Learning+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Real-World+Projects+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%E2%9C%A8"/>
 
-<p>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=shrutikumari18&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/shrutikumari18?label=FOLLOWERS&style=for-the-badge&color=236ad3"/>
 <img src="https://img.shields.io/github/stars/shrutikumari18?label=STARS&style=for-the-badge&color=f5c542"/>
-</p>
 
-<p>
+<br><br>
+
 <a href="https://linkedin.com/in/shruti-kumari-a6a727291/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -20,9 +21,11 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/shrutikumari18">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-shrutikumari18-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+<a href="https://leetcode.com/u/shrutikumari1803/">
+<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -38,17 +41,24 @@ I'm a passionate technology learner interested in **Data Analytics, Data Science
 
 I enjoy building practical projects that combine **data, intelligent systems and modern web technologies**.
 
+<br>
+
+📊 Data Analytics & Visualization   •  
+🤖 Machine Learning & AI   •  
+🌐 Full Stack Development   •  
+👁️ Computer Vision
+
 </div>
 
-### 🚀 What I'm Currently Doing
+### 🚀 Currently Working On
 
-* 📊 Exploring **Data Analytics & Data Visualization**
-* 🐍 Improving my **Python & SQL** skills
-* 🤖 Learning **Machine Learning & AI**
-* 📈 Building dashboards using **Power BI**
-* 🌐 Developing **Full Stack Web Applications**
-* 🤝 Working collaboratively on real-world projects
-* 💡 Practicing **DSA & problem solving**
+* 📊 Data Analytics & Data Visualization
+* 🐍 Python & SQL
+* 🤖 Machine Learning & AI
+* 📈 Power BI Dashboards
+* 🌐 Full Stack Applications
+* 🤝 Collaborative Development
+* 💡 DSA & Problem Solving
 
 ---
 
@@ -56,52 +66,100 @@ I enjoy building practical projects that combine **data, intelligent systems and
 
 # 🧠 My Tech Universe
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=5" height="42"/>
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react&perline=6" height="42"/>
+
+</td>
+
+<td align="center" width="33%">
 
 ### ⚙️ Backend & DevOps
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,npm,docker"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,npm,docker&perline=5" height="42"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" height="42"/>
+
+</td>
+
+<td align="center">
 
 ### 📊 Data Science & AI
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</td>
+
+<td align="center">
 
 ### 📈 Analytics
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
 
 ### 🧠 Core CS
 
-<p>
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOPs-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-263238?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOPs-6A1B9A?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-263238?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+
+</td>
+
+<td align="center">
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" height="42"/>
+
+</td>
+
+<td align="center">
+
+### 🚀 Focus
+
+<img src="https://img.shields.io/badge/Data%20Analytics-0F9D58?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-FF6B35?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -111,31 +169,25 @@ I enjoy building practical projects that combine **data, intelligent systems and
 
 <div align="center">
 
-### 🤝 01 — SYNEX GEN
+## 🤝 01 — SYNEX GEN
 
-**Collaborative Technology Platform**
+### Collaborative Technology Platform
 
 </div>
 
-SYNEX GEN is a collaborative technology platform focused on bringing **technology news, AI insights, events, Q&A, career opportunities, hackathons and interactive experiences** together in one platform.
+A collaborative technology platform focused on **technology news, AI insights, events, Q&A, career opportunities, hackathons and interactive experiences**.
 
 **🤝 Project Type:** Collaboration Project
 
 **✨ Highlights**
 
-* 📰 Technology & AI insights
-* 🎯 Events & hackathon opportunities
-* 💼 Career & internship opportunities
-* 💬 Community Q&A
-* 🎮 Interactive mini-games
-* 🤖 AI-focused experiences
-* 👨‍💻 Collaborative development
+`📰 Tech & AI Insights` `🎯 Hackathons` `💼 Career Opportunities` `💬 Q&A` `🎮 Mini Games` `🤖 AI Experiences`
 
 **🧰 Tech:** `React` `Vite` `JavaScript` `CSS` `Node.js` `AI`
 
 <p align="center">
 <a href="YOUR-SYNEX-GEN-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-203a43?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-203A43?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -143,28 +195,23 @@ SYNEX GEN is a collaborative technology platform focused on bringing **technolog
 
 <div align="center">
 
-### 🤖 02 — Gesture & Face Control
+## 🤖 02 — Gesture & Face Control
 
-**AI-Based Gesture & Face Recognition System**
+### AI-Based Gesture & Face Recognition System
 
 </div>
 
-An interactive computer vision project using **hand gestures and face recognition** to perform different tasks and provide an intelligent control experience.
+An interactive computer vision project using **hand gestures and face recognition** for real-time intelligent control.
 
 **✨ Highlights**
 
-* 🖐️ Hand gesture detection
-* 👤 Face recognition
-* 🎥 Real-time camera processing
-* 🎵 Gesture-based task control
-* 🖥️ Interactive Flask dashboard
-* 🤖 Computer Vision integration
+`🖐️ Gesture Detection` `👤 Face Recognition` `🎥 Real-Time Camera` `🎵 Task Control` `🖥️ Flask Dashboard`
 
 **🧰 Tech:** `Python` `OpenCV` `MediaPipe` `Flask` `Computer Vision` `AI`
 
 <p align="center">
 <a href="YOUR-GESTURE-FACE-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-203a43?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-203A43?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -172,27 +219,23 @@ An interactive computer vision project using **hand gestures and face recognitio
 
 <div align="center">
 
-### 🚀 03 — Pragatidrishti
+## 🚀 03 — Pragatidrishti
 
-**Technology-Driven Social Impact Project**
+### Technology-Driven Social Impact Project
 
 </div>
 
-Pragatidrishti is a technology-focused project designed to provide a practical digital solution for **real-world problems and social impact**.
+A technology-focused project designed to provide a practical digital solution for **real-world problems and social impact**.
 
 **✨ Highlights**
 
-* 🌐 Interactive web platform
-* 💡 Problem-solving approach
-* 📊 Information-driven interface
-* 🚀 Hackathon-oriented development
-* 🤝 Technology for social impact
+`🌐 Web Platform` `💡 Problem Solving` `📊 Information System` `🚀 Hackathon Project`
 
 **🧰 Tech:** `HTML` `CSS` `JavaScript` `Python` `Flask`
 
 <p align="center">
 <a href="YOUR-PRAGATIDRISHTI-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-203a43?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-203A43?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -200,27 +243,23 @@ Pragatidrishti is a technology-focused project designed to provide a practical d
 
 <div align="center">
 
-### 📦 04 — Complaint Box
+## 📦 04 — Complaint Box
 
-**Mini Complaint Management System**
+### Mini Complaint Management System
 
 </div>
 
-A web-based complaint management application designed to allow users to **submit and manage complaints digitally**.
+A web-based application for **digital complaint submission and management**.
 
 **✨ Highlights**
 
-* 📝 Complaint submission
-* 📋 Complaint management
-* 🗄️ Database integration
-* 🔐 Structured backend
-* 🌐 Web-based interface
+`📝 Complaint Submission` `📋 Management` `🗄️ Database` `🔐 Backend` `🌐 Web Interface`
 
 **🧰 Tech:** `Python` `Flask` `MySQL` `HTML` `CSS`
 
 <p align="center">
 <a href="YOUR-COMPLAINT-BOX-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-203a43?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-203A43?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -228,28 +267,23 @@ A web-based complaint management application designed to allow users to **submit
 
 <div align="center">
 
-### 💰 05 — Loan Approval Comparison
+## 💰 05 — Loan Approval Comparison
 
-**Data-Driven Loan Approval Analysis**
+### Data-Driven Loan Approval Analysis
 
 </div>
 
-A machine learning and data analysis project focused on understanding **loan approval patterns and comparing important factors affecting approval decisions**.
+A machine learning and data analysis project focused on **loan approval patterns and comparison of important factors affecting approval decisions**.
 
 **✨ Highlights**
 
-* 📊 Data preprocessing
-* 🔍 Exploratory Data Analysis
-* 🌳 Decision Tree approach
-* 📈 Loan approval comparison
-* 🤖 Machine Learning
-* 📊 Data-driven insights
+`📊 Data Preprocessing` `🔍 EDA` `🌳 Decision Tree` `📈 Comparison` `🤖 Machine Learning`
 
-**🧰 Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn` `Machine Learning`
+**🧰 Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`
 
 <p align="center">
 <a href="YOUR-LOAN-APPROVAL-REPO">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-203a43?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20View%20Project-203A43?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -259,9 +293,21 @@ A machine learning and data analysis project focused on understanding **loan app
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrutikumari18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<a href="https://github.com/shrutikumari18">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikumari18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shrutikumari18&theme=github_dark&animation=rise" width="48%"/>
+
+</a>
+
+<a href="https://github.com/shrutikumari18">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutikumari18&theme=github_dark&animation=rise" width="48%"/>
+
+</a>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrutikumari18&theme=github_dark&animation=rise" width="97%"/>
 
 </div>
 
@@ -271,7 +317,29 @@ A machine learning and data analysis project focused on understanding **loan app
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shrutikumari18&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=shrutikumari18&theme=github-dark-blue&hide_border=true&mode=weekly&card_width=900"/>
+
+</div>
+
+---
+
+# 💻 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/shrutikumari1803/">
+
+<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=shrutikumari1803&theme=dark&hide_border=true" width="700"/>
+
+</a>
+
+<br>
+
+<a href="https://leetcode.com/u/shrutikumari1803/">
+
+<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
 
 </div>
 
@@ -281,16 +349,20 @@ A machine learning and data analysis project focused on understanding **loan app
 
 <div align="center">
 
-|   🔥 Area   | 📚 Focus                        |
-| :---------: | :------------------------------ |
-|  🐍 Python  | Advanced Python & Data Analysis |
-|   🗄️ SQL   | Queries & Database Management   |
-| 📊 Power BI | Interactive Dashboards          |
-|    🤖 ML    | Machine Learning Algorithms     |
-|    🧠 AI    | Artificial Intelligence         |
-|  ⚙️ Backend | APIs & Server-Side Development  |
-|  🐳 Docker  | Containerization                |
-|    💻 DSA   | Problem Solving                 |
+<table>
+<tr>
+<td align="center">🐍<br><b>Python</b><br><sub>Advanced Data Analysis</sub></td>
+<td align="center">🗄️<br><b>SQL</b><br><sub>Queries & DBMS</sub></td>
+<td align="center">📊<br><b>Power BI</b><br><sub>Interactive Dashboards</sub></td>
+<td align="center">🤖<br><b>ML</b><br><sub>ML Algorithms</sub></td>
+</tr>
+<tr>
+<td align="center">🧠<br><b>AI</b><br><sub>Artificial Intelligence</sub></td>
+<td align="center">⚙️<br><b>Backend</b><br><sub>APIs & Development</sub></td>
+<td align="center">🐳<br><b>Docker</b><br><sub>Containerization</sub></td>
+<td align="center">💻<br><b>DSA</b><br><sub>Problem Solving</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -300,27 +372,81 @@ A machine learning and data analysis project focused on understanding **loan app
 
 <div align="center">
 
-📊 **Data Analytics & Dashboards**
+<table>
+<tr>
 
-  •  
+<td align="center" width="33%">
 
-🤖 **Machine Learning Projects**
+### 📊
 
-  •  
+**Data Analytics**
 
-🧠 **AI Applications**
+Dashboards &
+Data Visualization
 
-<br><br>
+</td>
 
-🌐 **Full Stack Applications**
+<td align="center" width="33%">
 
-  •  
+### 🤖
 
-👁️ **Computer Vision Systems**
+**Machine Learning**
 
-  •  
+Predictive Models &
+Intelligent Systems
 
-🚀 **Real-World Solutions**
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+**AI Applications**
+
+Smart &
+Interactive Solutions
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🌐
+
+**Full Stack**
+
+Modern Web
+Applications
+
+</td>
+
+<td align="center">
+
+### 👁️
+
+**Computer Vision**
+
+Recognition &
+Automation
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+**Real-World Solutions**
+
+Technology for
+Practical Problems
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -330,19 +456,13 @@ A machine learning and data analysis project focused on understanding **loan app
 
 <div align="center">
 
-📌 Become a skilled **Data Analyst / Data Scientist**
-
-📌 Build **impactful real-world projects**
-
-📌 Strengthen **DSA & problem-solving skills**
-
-📌 Explore **AI & Machine Learning** deeply
-
-📌 Contribute to **Open Source**
-
-📌 Collaborate with talented developers
-
-📌 Keep **learning, building and improving**
+📊 Become a skilled **Data Analyst / Data Scientist**
+🤖 Explore **AI & Machine Learning** deeply
+💻 Strengthen **DSA & Problem Solving**
+🚀 Build **impactful real-world projects**
+🤝 Collaborate with talented developers
+🌱 Contribute to **Open Source**
+✨ Keep **Learning • Building • Improving**
 
 </div>
 
@@ -364,16 +484,20 @@ A machine learning and data analysis project focused on understanding **loan app
 <img src="https://img.shields.io/badge/GitHub-shrutikumari18-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/shrutikumari1803/">
+<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer"/>
 
 ### ✨ *Learning • Building • Collaborating • Growing* 🚀
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile! ⭐**
 
 </div>

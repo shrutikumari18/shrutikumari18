@@ -351,29 +351,18 @@ A machine learning and data analysis project focused on **loan approval patterns
 ### 🧩 Data Structures & Algorithms
 
 <a href="https://leetcode.com/u/shrutikumari1803/">
-
-<img src="https://img.shields.io/badge/LeetCode-shrutikumari1803-1D4ED8?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LeetCode-◈%20shrutikumari1803-1D4ED8?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br><br>
 
-**Focused on consistent problem solving and DSA practice.**
-
-<br>
-
-`Arrays` • `Strings` • `Searching` • `Sorting` • `Hashing`
-
-<br>
-
+`Arrays` • `Strings` • `Searching` • `Sorting` • `Hashing`  
 `Two Pointers` • `Binary Search` • `Recursion` • `Problem Solving`
 
-<br><br>
+<br>
 
 <a href="https://leetcode.com/u/shrutikumari1803/">
-
-<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/VIEW%20PROFILE-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
